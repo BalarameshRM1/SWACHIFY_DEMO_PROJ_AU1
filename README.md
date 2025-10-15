@@ -1,5 +1,5 @@
 
-# Khasim_swatchify_FINAL_DEMO
+# swatchify_FINAL_DEMO
 dev
 =======
 # SWACHIFY_DEMO_PROJ_AU-
